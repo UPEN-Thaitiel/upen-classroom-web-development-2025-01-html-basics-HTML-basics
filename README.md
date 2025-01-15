@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Hx4eNJ8q)
 # HTML-basics
 This repo will be used for web development lab #1, which validates basic HTML knowledge for students
 
@@ -30,8 +31,10 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 
 |  **Percentage**       |**Directory**       | **Criteria**                                   | **YES**       | **NO**        | **Observations** | 
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
-|  **20%**  |**Heading Element**  | Matches the png image?   |    |          |       | 
-| **20%**  |**Paragraph Element** | Matches the png image?               |        |   |    | 
-| **20%**  |**Void Element**      | Matches the png image?       |        | |  | 
-| **40%**  |**Movie Ranking** | Matches the png image?         |    |    | | 
+|  **20%**  |**Heading Element**  | Matches the png image?   |  X |          |    use closing markers as well <h3><h3/>   | 
+| **20%**  |**Paragraph Element** | Matches the png image?  |     X   |   |    use closing markers as well <p><p/> | 
+| **20%**  |**Void Element**      | Matches the png image?       |  X      | |  | 
+| **40%**  |**Movie Ranking** | Matches the png image?         |  X  |    | | 
 
+
+## Your grade is 100/100 Keep up the good work Cristopher!
